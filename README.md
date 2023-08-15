@@ -48,7 +48,7 @@ Let's not forget about school, here's what I believe to be the most important th
 <details>
   <summary>School Accomplishments</summary>
   <ul>
-    <li>I'm a sophomore in High School, currently maintaining 4.0 GPA throughout the year</li>
+    <li>I'm a sophomore in High School, currently maintaining 4.0 GPA</li>
     <li>Earned the opportunity to go to the State Solo & Ensemble band competition at the Oklahoma State campus, UPDATE: We got a 2, meaning an excellent rating.</li>
     <li>Won a trophy for getting the best score on a STEM test in the state at my grade level. (This was during the fall of 2021)</li>
     <li>Best chess player in my class (Prove me wrong)</li>
