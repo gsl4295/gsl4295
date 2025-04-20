@@ -4,4 +4,3 @@
   - Instagram: @gibsonlee08 (Completely inactive)
   - YouTube: [@gibson-lee](https://youtube.com/@gibson-lee)
   - Discord: @gsl4295 (I have no idea if my DM's are open or not)
-- Love python and have never touched a C language in my life
