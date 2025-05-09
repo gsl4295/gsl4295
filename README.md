@@ -5,4 +5,4 @@
   - YouTube: [@gibson-lee](https://youtube.com/@gibson-lee)
   - Discord: @gsl4295 (I have no idea if my DM's are open or not)
 
-[![](https://images.credly.com/size/220x220/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
+[![](https://images.credly.com/size/50x50/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
