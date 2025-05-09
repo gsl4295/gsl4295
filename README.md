@@ -4,3 +4,5 @@
   - Instagram: @gibsonlee08 (Completely inactive)
   - YouTube: [@gibson-lee](https://youtube.com/@gibson-lee)
   - Discord: @gsl4295 (I have no idea if my DM's are open or not)
+
+[Excel 2019 Associate Certification](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
