@@ -30,4 +30,5 @@ In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma 
 - GPA: 4.05 (4.0 Unweighted)
 
 # Badges
-[![](https://images.credly.com/size/50x50/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
+- Excel Associate Certification: [![](https://images.credly.com/size/50x50/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
+- TestOut Digital Literacy: [![](https://cdn.testout.com/certification-meta-v2/digit-en-us/badge.png)](https://certification.platform.comptia.org/verifycert/6-2C6-V33QHG)
