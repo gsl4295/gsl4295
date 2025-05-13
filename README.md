@@ -1,6 +1,7 @@
 # Interests
 - Currently working on a microcontroller attached to my wall with 3 clear push pins (see [PicoLaunchTimer](https://github.com/gsl4295/PicoLaunchTimer))
-- 
+- Enjoying the summer after by far my hardest school year yet.
+- Counting down the days towards Starship's ninth test flight. Also counting down the days until we get another beautiful fireworks show in the Turks and Caicos.
 - Don't use social media too often, but you can find me on:
   - [Instagram](https://instagram.com/gibsonlee08) (I post sometimes, but I have the app uninstalled other than for that. Don't DM me - I will not respond for possibly months to years)
   - [YouTube](https://youtube.com/@gibson-lee)
