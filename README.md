@@ -1,14 +1,13 @@
-Hi, my name is Gibson.
-
-# General Info
+# Interests
 - Currently working on a microcontroller attached to my wall with 3 clear push pins (see [PicoLaunchTimer](https://github.com/gsl4295/PicoLaunchTimer))
-- Don't use social media too often, but you can find me on
-  - [Instagram](https://instagram.com/gibsonlee08)
+- 
+- Don't use social media too often, but you can find me on:
+  - [Instagram](https://instagram.com/gibsonlee08) (I post sometimes, but I have the app uninstalled other than for that. Don't DM me - I will not respond for possibly months to years)
   - [YouTube](https://youtube.com/@gibson-lee)
-  - [Discord]()
+  - [Discord](https://discord.gg/eRUTPrp6) (nearly never active)
 
 # Education
-In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma State University. But currently, I'm concurrently enrolled at Cashion High School and Redlands Community College, getting some first year credits done.
+In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma State University. But currently, I'm concurrently enrolled at Cashion High School and Redlands Community College.
 
 ## High School
 ### Extracurriculars
@@ -28,6 +27,15 @@ In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma 
 - ACT: 35
 - PSAT: 1430
 - GPA: 4.05 (4.0 Unweighted)
+
+## College
+### Redlands CC
+- Concurrently enrolled and have taken 9 hours worth of mostly history credits
+- Enrolled in one more class during my senior year, and then I'm done with concurrent college.
+
+### Oklahoma State University
+- I will major in Aerospace Engineering with an option (or minor) in American Sign Language
+- A graduate degree is in my mind, but it's most likely going to be out-of-state... something like Central Florida.
 
 # Badges
 - [Excel Associate Certification](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
