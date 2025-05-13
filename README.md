@@ -2,10 +2,10 @@ Hi, my name is Gibson.
 
 # General Info
 - Currently working on a microcontroller attached to my wall with 3 clear push pins (see [PicoLaunchTimer](https://github.com/gsl4295/PicoLaunchTimer))
-- Don't have much social media, but you can find me on:
-  - Instagram: @gibsonlee08 (Usually inactive)
-  - YouTube: [@gibson-lee](https://youtube.com/@gibson-lee)
-  - Discord: @gsl4295 (I have no idea if my DM's are open or not)
+- Don't use social media too often, but you can find me on
+  - [Instagram](https://instagram.com/gibsonlee08)
+  - [YouTube](https://youtube.com/@gibson-lee)
+  - [Discord]()
 
 # Education
 In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma State University. But currently, I'm concurrently enrolled at Cashion High School and Redlands Community College, getting some first year credits done.
@@ -30,5 +30,5 @@ In short, I'm about to be pursuing a major in aerospace engineering at Oklahoma 
 - GPA: 4.05 (4.0 Unweighted)
 
 # Badges
-- Excel Associate Certification: [![](https://images.credly.com/size/50x50/images/af151b3d-9453-48a8-8d22-5b9fc54d2b43/image.png)](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
+- [Excel Associate Certification](https://www.credly.com/badges/f3a55fe9-8742-4633-9e36-35689c0868b7/public_url)
 - [TestOut Digital Literacy](https://certification.platform.comptia.org/verifycert/6-2C6-V33QHG)
