@@ -1,1 +1,12 @@
-https://gsl4295.github.io/me
+Here's the status of all of my main projects. All first badges link to their respective repo
+
+### PicoLaunchTimer
+[![GitHub Release #](https://img.shields.io/github/v/release/gsl4295/PicoLaunchTimer?include_prereleases&sort=date&display_name=tag)](https://github.com/gsl4295/PicoLaunchTimer)
+![GitHub Issues](https://img.shields.io/github/issues/gsl4295/PicoLaunchTimer)
+
+### PyScore
+[![GitHub Release #](https://img.shields.io/github/v/release/gsl4295/PyScore?include_prereleases&sort=date&display_name=tag)](https://github.com/gsl4295/PyScore)
+![GitHub Issues](https://img.shields.io/github/issues/gsl4295/PyScore)
+
+### [me](https://gsl4295.github.io/me)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/gsl4295/me/pages%2Fpages-build-deployment)](https://github.com/gsl4295/me)
