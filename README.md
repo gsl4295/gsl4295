@@ -1,5 +1,3 @@
-- Accepted aerospace engineer at Oklahoma State University
-
 ![My Live GitHub stats](https://github-readme-stats.vercel.app/api?username=gsl4295&show_icons=true&theme=great-gatsby)
 
 PicoLaunchTimer: 
