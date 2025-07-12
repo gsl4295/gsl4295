@@ -1,4 +1,4 @@
-![My Live GitHub stats](https://github-readme-stats.vercel.app/api?username=gsl4295&show_icons=true&theme=great-gatsby)
+![My Live GitHub stats](https://github-readme-stats.vercel.app/api?username=gsl4295&show_icons=true&theme=ambient_gradient)
 
 PicoLaunchTimer: 
 [![GitHub Release](https://img.shields.io/github/v/release/gsl4295/PicoLaunchTimer?include_prereleases&sort=date&display_name=tag)](https://github.com/gsl4295/PicoLaunchTimer)
