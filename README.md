@@ -1,4 +1,4 @@
-Engineer, programmmer, percussionist, swimmer, traveller.
+Engineer, programmmer, percussionist, athlete
 
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/gsl4295/me/pages%2Fpages-build-deployment?style=for-the-badge&label=website)](https://gsl4295.github.io/me)
 
