@@ -1,5 +1,3 @@
-Engineer, programmmer, percussionist, athlete
-
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/gsl4295/me/pages%2Fpages-build-deployment?style=for-the-badge&label=website)](https://gsl4295.github.io/me)
 
 [![GitHub Release](https://img.shields.io/github/v/release/gsl4295/PicoTimers?style=for-the-badge&label=PicoTimers&include_prereleases&sort=date&display_name=tag)](https://github.com/gsl4295/PicoTimers)
